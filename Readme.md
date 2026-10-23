@@ -6,14 +6,15 @@ Dieses Repository enthält den vollständigen Code, die Notebooks und die Dokume
 
 ## Projektstruktur
 Das Repository ist wie folgt aufgebaut:
-01_projectmanagement/       – ausführliche Projektbeschreibung
-02_data/                    – Hinweise zur Datenquelle, Data Dictionary
-03_notebooks/               – explorative Analyse, Modellierung, NLP, Deep Dives
-04_scripts/                 – produktionsreifer Code (Preprocessing, Features, Modelle)
-05_models/                  – gespeicherte Modelle (optional)
-06_visuals/                 – Grafiken und Visualisierungen
-07_germany_deep_dive/       – spezifische Analyse für Deutschland
-README.md                   – kurze Übersicht über das Repository
+- **01_projectmanagement** – ausführliche Projektbeschreibung  
+- **02_data** – Hinweise zur Datenquelle, Data Dictionary  
+- **03_notebooks** – explorative Analyse, Modellierung, NLP, Deep Dives  
+- **04_scripts** – produktionsreifer Code (Preprocessing, Features, Modelle)  
+- **05_models** – gespeicherte Modelle (optional)  
+- **06_visuals** – Grafiken und Visualisierungen  
+- **07_germany_deep_dive** – spezifische Analyse für Deutschland  
+- **README.md** – kurze Übersicht über das Repository
+
 
 ### Inhalt des Repositories
 - Datenvorbereitung und Feature‑Engineering  
